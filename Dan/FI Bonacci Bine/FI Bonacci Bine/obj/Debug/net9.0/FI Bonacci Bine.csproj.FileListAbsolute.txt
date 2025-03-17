@@ -1,0 +1,15 @@
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\bin\Debug\net9.0\FI Bonacci Bine.exe
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\bin\Debug\net9.0\FI Bonacci Bine.deps.json
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\bin\Debug\net9.0\FI Bonacci Bine.runtimeconfig.json
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\bin\Debug\net9.0\FI Bonacci Bine.dll
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\bin\Debug\net9.0\FI Bonacci Bine.pdb
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\FI Bonacci Bine.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\FI Bonacci Bine.AssemblyInfoInputs.cache
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\FI Bonacci Bine.AssemblyInfo.cs
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\FI Bonacci Bine.csproj.CoreCompileInputs.cache
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\FI Bonacci Bine.sourcelink.json
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\FI Bonacci Bine.dll
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\refint\FI Bonacci Bine.dll
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\FI Bonacci Bine.pdb
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\FI Bonacci Bine.genruntimeconfig.cache
+c:\Dan\FI Bonacci Bine\FI Bonacci Bine\obj\Debug\net9.0\ref\FI Bonacci Bine.dll

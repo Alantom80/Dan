@@ -1,0 +1,15 @@
+c:\Dan\FI Bonacci memo\FI Bonacci memo\bin\Debug\net9.0\FI Bonacci memo.exe
+c:\Dan\FI Bonacci memo\FI Bonacci memo\bin\Debug\net9.0\FI Bonacci memo.deps.json
+c:\Dan\FI Bonacci memo\FI Bonacci memo\bin\Debug\net9.0\FI Bonacci memo.runtimeconfig.json
+c:\Dan\FI Bonacci memo\FI Bonacci memo\bin\Debug\net9.0\FI Bonacci memo.dll
+c:\Dan\FI Bonacci memo\FI Bonacci memo\bin\Debug\net9.0\FI Bonacci memo.pdb
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\FI Bonacci memo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\FI Bonacci memo.AssemblyInfoInputs.cache
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\FI Bonacci memo.AssemblyInfo.cs
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\FI Bonacci memo.csproj.CoreCompileInputs.cache
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\FI Bonacci memo.sourcelink.json
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\FI Bonacci memo.dll
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\refint\FI Bonacci memo.dll
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\FI Bonacci memo.pdb
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\FI Bonacci memo.genruntimeconfig.cache
+c:\Dan\FI Bonacci memo\FI Bonacci memo\obj\Debug\net9.0\ref\FI Bonacci memo.dll

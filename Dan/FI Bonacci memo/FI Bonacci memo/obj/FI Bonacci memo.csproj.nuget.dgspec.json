@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dan\\FI Bonacci\\FI Bonacci\\FI Bonacci.csproj": {}
+    "c:\\Dan\\FI Bonacci memo\\FI Bonacci memo\\FI Bonacci memo.csproj": {}
   },
   "projects": {
-    "c:\\Dan\\FI Bonacci\\FI Bonacci\\FI Bonacci.csproj": {
+    "c:\\Dan\\FI Bonacci memo\\FI Bonacci memo\\FI Bonacci memo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dan\\FI Bonacci\\FI Bonacci\\FI Bonacci.csproj",
-        "projectName": "FI Bonacci",
-        "projectPath": "c:\\Dan\\FI Bonacci\\FI Bonacci\\FI Bonacci.csproj",
+        "projectUniqueName": "c:\\Dan\\FI Bonacci memo\\FI Bonacci memo\\FI Bonacci memo.csproj",
+        "projectName": "FI Bonacci memo",
+        "projectPath": "c:\\Dan\\FI Bonacci memo\\FI Bonacci memo\\FI Bonacci memo.csproj",
         "packagesPath": "C:\\Users\\Uporabnik\\.nuget\\packages\\",
-        "outputPath": "c:\\Dan\\FI Bonacci\\FI Bonacci\\obj\\",
+        "outputPath": "c:\\Dan\\FI Bonacci memo\\FI Bonacci memo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uporabnik\\AppData\\Roaming\\NuGet\\NuGet.Config"
